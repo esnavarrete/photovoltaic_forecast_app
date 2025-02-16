@@ -1,3 +1,9 @@
 *.csv
 documentacion/
-proyecto_diplo/ # this is my python venv for this project
+__pycache__/
+# this is my python venv for this project
+proyecto_diplo/ 
+.proyecto_diplo/
+
+# more docs
+tackling_climate_change_with_ml.pdf
