@@ -1,0 +1,3 @@
+*.csv
+documentacion/
+proyecto_diplo/ # this is my python venv for this project
